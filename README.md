@@ -44,14 +44,29 @@ const styles = StyleSheet.create({
 * React Native Cli
 * Android Studio ou XCode
 
-## Desenvolvendo um Jokenpo
+## Projeto - Jokenpo
+* O usuário terá 3 opções: Pedra, Papel ou Tesoura. 
+* O computador também irá escolher uma das 2 opções aleatóriamente.
+
+Pedra e Pedra || Papel e Papel || Tesoura e Tesoura = Empate
+Pedra e Papel = Papel enrrola Pedra
+Pedra e Tesoura = Pedra quebra Tesoura
+Papel e Tesoura = Tesoura corta Papel 
+
+### Criando a estrutura inicial do React Native
+1. No terminal: 
+```
+    react-native init nome_que_eu_quizer
+```
+
+2. Abrir projeto no Android Studio
+3. Execução no Smartphone ou Emulador
+```
+    react-native run-android
+```
 
 
-
-
-
-
-
+## Em Breve mais Explicações
 
 
 ## Publicação Android
