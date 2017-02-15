@@ -56,7 +56,7 @@ Papel e Tesoura = Tesoura corta Papel
 ### Criando a estrutura inicial do React Native
 1. No terminal: 
 ```
-    react-native init nome_que_eu_quizer
+    react-native init Jokenpo
 ```
 
 2. Abrir projeto no Android Studio
@@ -65,8 +65,7 @@ Papel e Tesoura = Tesoura corta Papel
     react-native run-android
 ```
 
-
-## Em Breve mais Explicações
+### Criado o primeiro componente
 
 
 ## Publicação Android
