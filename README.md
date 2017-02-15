@@ -1,6 +1,9 @@
 # 2º Meetup React de Blumenau - SC
 Explicações e Arquivos Utilizados no 2° Meetup React Blumenau-SC
 
+## Slides
+http://pt.slideshare.net/NuriellyCarolineBrizola/meetup-react-native
+
 ## O que é React Native
 
 * Uma biblioteca criada pelo Facebook, usando Javascript e React, para tornar o desenvolvimento para aplicações móveis mais rápido e permitir o desenvolvimento de aplicativos nativos com a interface com componentes. Sem diferença perceptível entre aplicativos criado usando Java ou Object C.
