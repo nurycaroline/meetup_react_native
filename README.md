@@ -68,17 +68,32 @@ Papel e Tesoura = Tesoura corta Papel
     react-native run-android
 ```
 
-### Criado o primeiro componente
-# EM BREVE
+### Componentes
+O react native não possui html, mas seus componentes são bem parecidos com as Tags HTML.
+* [Text](https://facebook.github.io/react-native/docs/text.html) que pode substituir <label> ou <p>:
 
+    ```
+        <Text style={styles.titleText} onPress={this.onPressTitle}> Hello World </Text>
+    ```
 
+* [Button](https://facebook.github.io/react-native/docs/button.html), que não precisa dizer para o que serve né kk
 
+    ```
+        <Button
+            onPress={onPressLearnMore}
+            title="Learn More"
+            color="#841584"
+            accessibilityLabel="Learn more about this purple button"
+            />
+    ```
 
-
+* Podem ver outros componente da documentação. https://facebook.github.io/react-native/docs/getting-started.html
 
 ## Publicação Android
 https://facebook.github.io/react-native/
 https://facebook.github.io/react-native/docs/signed-apk-android.html
 
 ## Referências
+https://facebook.github.io/react-native/docs/getting-started.html
 https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24#.oo68jo7yw
+
