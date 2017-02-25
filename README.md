@@ -2,7 +2,8 @@
 Explicações e Arquivos Utilizados no 2° Meetup React Blumenau-SC
 
 ## Slides
-http://pt.slideshare.net/NuriellyCarolineBrizola/meetup-react-native
+[SlideShare](http://pt.slideshare.net/NuriellyCarolineBrizola/meetup-react-native)
+[SpeakerDeck](https://speakerdeck.com/nurycaroline/introducao-react-natibe)
 
 ## O que é React Native
 
